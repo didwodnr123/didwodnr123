@@ -1,12 +1,13 @@
 ### Wanna be an iOS & back-end Developer 👋
 
-- 🔎  **Info ...**
+- 🔎  Info ...
   - Jaeuk Yang (25)
-  - studying *Computer-Science*
+  - studying ***Computer-Science***
 
-- 🌱  **I’m currently learning ...**
-  - iOS app develop using *Swift*
-  - Mobile App back-end
-- 📫  **How to reach me: ...**
+- 🌱  I’m currently learning ...
+  - iOS app develop, ***Swift***
+  - Mobile App back-end, ***Node.js*** 
+  
+- 📫  How to reach me: ...
   - email: didwodnr123@gmail.com
 
