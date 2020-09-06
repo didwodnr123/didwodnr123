@@ -1,4 +1,4 @@
-### Wanna be an iOS & back-end Developer 👋
+### Develop myself - to be a Developer 👋
 
 - 🔎  Info ...
   - Jaeuk Yang (25)
