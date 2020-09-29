@@ -11,3 +11,5 @@
 - 📫  How to reach me: ...
   - email: didwodnr123@gmail.com
 
+- 🗂  Tech & TIL blog
+  - [didwodnr123@github.io](didwodnr123@github.io)
