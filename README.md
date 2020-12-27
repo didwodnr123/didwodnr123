@@ -1,10 +1,17 @@
-### Develop myself - to be a Developer 👋
+### to be a Data Scientist 👋
 
 - 🔎  Info ...
   - Jaeuk Yang (25)
-  - studying ***Computer-Science***
+  - studying ***Data-Science***
 
 - 🌱  I’m currently learning ...
+  - Python
+  - Exploratory Data Analysis
+  - Feature Engineering
+  - Data Visualization
+  - ML/AI
+
+- 🌱  I've learned ...
   - iOS app develop, ***Swift***
   - Mobile App back-end, ***Node.js*** 
   
