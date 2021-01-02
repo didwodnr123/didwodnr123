@@ -1,4 +1,4 @@
-### aspire to be a Data Scientist 👋
+### aspiring a Data Scientist 👋
 
 - 🔎  Info ...
   - Jaeuk Yang (25)
