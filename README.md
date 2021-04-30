@@ -1,15 +1,15 @@
 ### aspiring a Data Scientist 👋
 
 - 🔎  Info ...
-  - Jaeuk Yang (25)
+  - Jaeuk Yang (26)
   - studying ***Data-Science***
 
 - 🌱  I’m currently learning ...
+  - ML/DL
   - Python
   - Exploratory Data Analysis
   - Feature Engineering
   - Data Visualization
-  - ML/AI
 
 - 🌱  I've learned ...
   - iOS app develop, ***Swift***
