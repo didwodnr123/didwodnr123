@@ -1,7 +1,7 @@
 ### aspiring a Data Scientist 👋
 
 - 🔎  Info ...
-  - Jaeuk Yang (25)
+  - Jaeuk Yang (26)
   - studying ***Data-Science***
 
 - 🌱  I’m currently learning ...
