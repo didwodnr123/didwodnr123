@@ -9,7 +9,7 @@
   - Exploratory Data Analysis
   - Feature Engineering
   - Data Visualization
-  - ML/AI
+  - ML/DL
 
 - 🌱  I've learned ...
   - iOS app develop, ***Swift***
